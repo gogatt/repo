@@ -1,1 +1,2 @@
 dowolna linijka tekstu
+a tutaj dam inną linijkę tekstu.
